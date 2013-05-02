@@ -1,0 +1,6 @@
+#!/bin/sh
+
+scp ~/wsu_classwork/cs464/P2P/*.c ~/wsu_classwork/cs464/P2P/*.h ~/wsu_classwork/cs464/P2P/Makefile cpt464ai@users.isi.deterlab.net:~/pa3
+
+
+
